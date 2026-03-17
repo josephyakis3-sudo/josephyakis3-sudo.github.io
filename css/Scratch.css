@@ -1,0 +1,85 @@
+.whole {
+    background-color: bisque;
+}
+.body {
+    background-color: bisque;
+}
+.VertBar {
+    background-color: rgb(0, 0, 0);
+    padding-right: 15px;
+    padding-left: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.links {
+    list-style: none;
+    display: inline-block;
+}
+
+.title {
+    color: aliceblue;
+}
+li {
+    list-style: disc; display: inline-block;
+}
+li a{
+    text-decoration: none;
+    color: aliceblue;
+}
+
+
+.EC {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-size: 300%;
+}
+.Opening {
+    text-align: center;
+    font-size: 110%;
+    padding-left: 450px;
+    padding-right: 450px;
+}
+.pic {
+    padding-top: 50px;
+    float: left;
+}
+.pictext {
+    font-size: 130%;
+    float: right;
+    width: 500px;
+    padding-right: 350px;
+    padding-left: 50;
+    padding-top: 125px;
+}
+
+.vidINT {
+    padding-top: 450px;
+    text-align: center;
+}
+.video {
+    margin-left: 32%;
+    margin-top: 75px;
+}
+
+.border {
+   height: 5px;
+   margin-top: 3%;
+   margin-left: 15%;
+   width: 70%;
+   background-color: black;
+}
+
+.list {
+    font-size: large;
+    list-style: square;
+}
+
+.listul {
+    display: list-item;
+}
+
+.blist {
+    text-align: center;
+}
